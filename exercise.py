@@ -16,4 +16,8 @@ for i in obj:
         print('meiyous')
 
 f.close()
+<<<<<<< HEAD
 fuck you 
+=======
+ni mei
+>>>>>>> Tom
