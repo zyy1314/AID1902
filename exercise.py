@@ -16,3 +16,4 @@ for i in obj:
         print('meiyous')
 
 f.close()
+fuck you 
